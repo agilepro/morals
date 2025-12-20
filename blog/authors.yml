@@ -1,0 +1,16 @@
+chet:
+  name: Chet Anderson
+  title: Philosopher
+  url: https://meta.purplehillsbooks.org/
+
+unknownuser1:
+  name: Front Guy
+  title: Front End Engineer @ Facebook
+  url: https://github.com/xxxxx
+  image_url: https://github.com/xxxxx.png
+
+slorber:
+  name: Another One
+  title: Backend Guy
+  url: https://yyyyy.com
+  image_url: https://github.com/yyyyy.png
