@@ -31,3 +31,4 @@ https://www.RationalRealm.com/philosophy/ethics/is-morality-subjective.html
 
 * [How Did Human Morality Evolve?](https://youtu.be/LW8nNEFajlc?si=-GXWgmNclZyPajaU) - Victor Kumar - gene / culture coevolution (alcohol flush, lactose intolerant ) gives a good defense of evolutionary morality. Defines morality as “emotion” feeling that we have.  Also social norms. Just more effective cooperation.  Culturally transmitted.  Care giving to children is moral. We are social learners.  Moral emotions, sympathy, trust, respect.
 
+* [Derek Parfit - Full Address](https://www.youtube.com/watch?v=xTUrwO9-B_I) - Oct 10, 2015, Derek Parfit's book On What Matters was very influential in Peter Singer's switch to accepting objective moral truths.   For those interested in understanding something of Parfit's influential metaethics, watch from the 39 to 48 minute marks.
