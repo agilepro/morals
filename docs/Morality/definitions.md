@@ -19,7 +19,7 @@ Morality and ethics are guidelines for finding the good life.  I won't be giving
 
 **Ethics** - Refers to systematic rules or principles governing conduct, often established by professional organizations, institutions, or societies. Ethics are more objective and provide a framework for making decisions in various contexts.
 
-**Morality** - Refers to the idea that specific actions can be identified as either leading towared or away from the good life.  We attempt to identify whether an action is good or bad through the use of moral rules (which are simplistic approximations) or moral guidelines (which more complete yet often intractible).
+**Morality** - Refers to the idea that specific actions can be identified as either leading toward or away from the good life.  We attempt to identify whether an action is good or bad through the use of moral rules (which are simplistic approximations) or moral guidelines (which more complete yet often intractable).
 
 **Moral Optimum** - Refers to the idea that there could be a moral guideline that describes the best way to behave across any given context.  Simply put: for any given situation, from the set of all possible actions, there is a best action to choose.  Nobody knows the moral optimum for sure, but we strive to approximate this optimum as best we can.
 
