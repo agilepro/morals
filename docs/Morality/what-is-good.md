@@ -1,4 +1,5 @@
 ---
+indexTerms: consequentialism, survival, Euthyphro
   sidebar_position: 3
 ---
 # What is a Good Action?

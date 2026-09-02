@@ -1,4 +1,5 @@
 ---
+indexTerms: love, altruism
   sidebar_position: 10
 ---
 # Love

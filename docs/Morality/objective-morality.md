@@ -1,4 +1,5 @@
 ---
+indexTerms: moral realism, murder, property rights
   sidebar_position: 9
 ---
 # Objective Morality

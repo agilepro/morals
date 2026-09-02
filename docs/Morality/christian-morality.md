@@ -1,4 +1,5 @@
 ---
+indexTerms: divine command theory, Euthyphro, slavery
   sidebar_position: 8
 ---
 # Biblical Morality
@@ -17,6 +18,7 @@ Christians rightly argue that without objective morality, there can be no basis 
 
 If everybody can claim that sea level is defined by whatever level they are at, it becomes very difficult to talk about the altitude difference between two people: both are at sea level, even if one is thousands of feet higher.
 
+<!-- latex: \index{Divine Command Theory} -->
 ## Divine Command Theory
 
 While theists may be right about the need and existence of universal moral truths, they make a simplistic assumption about the source:  they say that God must have simply created them, along with everything else that God created in the world.
@@ -40,7 +42,7 @@ Mature Christians don't claim that morality comes from the bible, but that God's
 
 ## Righteous Arrogance
 
-While it is good that Christians aspire to be moral, the insistence that they are the only possible moral actors in the world does a deep disservice to the hundreds of other traditions that are equally moral.  And history has no shown Christians to be any more moral than any other major world culture. 
+While it is good that Christians aspire to be moral, the insistence that they are the only possible moral actors in the world does a deep disservice to the hundreds of other traditions that are equally moral.  And history has not shown Christians to be any more moral than any other major world culture. 
 
 Christians seem to be blind to the good actors that are around them, even going so far as to claim that non-Christians are simply accidentally acting on Christian sourced principles without knowing it.
 
@@ -88,7 +90,7 @@ The important thing to know here is that Turek does not say that he knows the di
 
 Take for example marriage. Most Christians will insist that a proper moral marriage is one man and one woman. But King David is a very important person in the Old Testament, and he had 13 wives. Ask the Christian if King David was a moral person, or if his Marriages were moral. An honest Christian will say no. One must than wonder why the Bible spends so much time telling a story about such an immoral person. 
 
-Turk does not fall into that trap.  We need to pay special attention. The deep thinking Christians that I know don’t claim that the Bible is the source of mortality, but that we know morality. In other words, they say that God created it and wrote it on our hearts. That will also admit that Christians and atheist alike have the same morals written on your hearts. That’s what gives them the arrogance to claim that atheist are ignoring the morals of God, which they know through this mechanism. 
+Turek does not fall into that trap.  We need to pay special attention. The deep thinking Christians that I know don’t claim that the Bible is the source of mortality, but that we know morality. In other words, they say that God created it and wrote it on our hearts. That will also admit that Christians and atheist alike have the same morals written on your hearts. That’s what gives them the arrogance to claim that atheist are ignoring the morals of God, which they know through this mechanism. 
 
 Also, it’s odd that Turek credits the nature of God with the source of these moral guidelines. He’s not saying that God decided that ex is moral and why is immoral, but rather God had no choice in this. It comes from God‘s nature means that The way God is reflects the morality of the universe. 
 

@@ -1,4 +1,5 @@
 ---
+indexTerms: tribe, eudaimonia, golden mean, context, moral optimum
   sidebar_position: 2
 ---
 # Terms of Discussion
