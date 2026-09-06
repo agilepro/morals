@@ -1,0 +1,55 @@
+# Book manifest for md2latex.
+# This file lives in the folder with the Markdown, and every path
+# below is relative to this file. Reorder the chapters list to
+# reorder the book; delete a line to leave that file out.
+
+title:    "Essentials of Moral Realism"
+subtitle: ""
+author:   "Keith Swenson"
+date:     "March 2026"
+
+# Where the generated LaTeX goes, relative to this file.
+output:
+  directory: ../latex
+  main:      moral-realism.tex
+
+document:
+  class:       book        # book | report | article
+  fontSize:    11pt
+  paperSize:   a4paper
+  geometry:    margin=1in
+  toc:         true
+  tocDepth:    2
+  numberDepth: 2
+  twoSide:     false
+
+# How fenced code blocks are rendered: listings | minted | verbatim
+code: listings
+
+# Raw lines appended to the preamble, e.g.
+# preamble:
+#   - \usepackage{microtype}
+
+# Chapters, in book order, relative to this file. Either a bare
+# filename, or a mapping with 'file' plus an optional 'title' that
+# overrides the H1. A mapping with 'part' inserts a part divider
+# and reads no file. A file outside this folder is fine too, e.g.
+#   - ../shared/preface.md
+frontMatter:
+  - "index.md"   # Essentials of Moral Realism
+  - "introduction.md"   # Introduction
+chapters:
+  - "definitions.md"   # Terms of Discussion
+  - "what-is-good.md"   # What is a Good Action?
+  - "rules.md"   # Moral Rules are Inadequate
+  - "subjective-morality.md"   # Subjective Morality
+  - "moral-relativism.md"   # Moral Relativism
+  - "objective-truths.md"   # Objective Truths
+  - "christian-morality.md"   # Biblical Morality
+  - "objective-morality.md"   # Objective Morality
+  - "love.md"   # Love
+  - "call-to-action.md"   # A Modest Request
+appendices:
+  - "morality-references.md"   # References and Resources
+  - "living-morally.md"   # Origins of Objective Morals
+  - "hand-choppers.md"   # Parable of the Hand Choppers
