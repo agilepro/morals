@@ -15,13 +15,9 @@ output:
 
 document:
   class:       book        # book | report | article
-  fontSize:    11pt
-  paperSize:   a4paper
-  geometry:    margin=1in
   toc:         true
   tocDepth:    2
   numberDepth: 2
-  twoSide:     false
 
 # How fenced code blocks are rendered: listings | minted | verbatim
 code: listings

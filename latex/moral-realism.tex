@@ -30,11 +30,12 @@
 \tableofcontents
 \clearpage
 
-\mainmatter
-
 % Chapters, in the order given by the manifest.
 \input{chapters/01-index}
 \input{chapters/02-introduction}
+
+\mainmatter
+
 \input{chapters/03-definitions}
 \input{chapters/04-what-is-good}
 \input{chapters/05-rules}
@@ -45,15 +46,17 @@
 \input{chapters/10-objective-morality}
 \input{chapters/11-love}
 \input{chapters/12-call-to-action}
+
+\appendix
+
 \input{chapters/13-morality-references}
 \input{chapters/14-living-morally}
 \input{chapters/15-hand-choppers}
 
-\appendix
-
 \backmatter
 
-\clearpage
+\providecommand{\phantomsection}{}
+\cleardoublepage
 \phantomsection
 \addcontentsline{toc}{chapter}{\indexname}
 \printindex

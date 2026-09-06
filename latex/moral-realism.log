@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.7)  2 SEP 2026 07:51
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.7)  6 SEP 2026 03:32
 entering extended mode
 **./moral-realism.tex
 (moral-realism.tex
@@ -1153,12 +1153,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
+ (moral-realism.out) (moral-realism.out)
 \@outlinefile=\write7
 \openout7 = `moral-realism.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           Using `bookmark' together with `hyperref' is recommended,
@@ -1272,15 +1269,22 @@ Package fontspec Info: Font family 'AlegreyaSansSCLight(0)' created for font
 
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
+ (moral-realism.toc [3]
+LaTeX Font Info:    Font shape `TU/PalatinoLinotype(0)/m/sl' in size <10.95> no
+t available
+(Font)              Font shape `TU/PalatinoLinotype(0)/m/it' tried instead on i
+nput line 56.
+ [4])
 \tf@toc=\write8
 \openout8 = `moral-realism.toc'.
 
- [3] [4
+ [5] (chapters/01-index.tex
+[6
 
 
 
-] (chapters/01-index.tex
-chapter 1.
+]
+chapter without number
 
 Class scrbook Warning: \float@addtolists detected!
 (scrbook)              Implementation of \float@addtolist became
@@ -1296,105 +1300,100 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface .
 
-File: ../docs/Morality/philosopher.jpg Graphic file (type bmp)
-<../docs/Morality/philosopher.jpg>
-) (chapters/02-introduction.tex [1
+File: ../markua/philosopher.jpg Graphic file (type bmp)
+<../markua/philosopher.jpg>
+) (chapters/02-introduction.tex [7] [8]
+chapter without number
+[9
 
 
-]
-LaTeX Font Info:    Font shape `TU/PalatinoLinotype(0)/m/sl' in size <10.95> no
-t available
-(Font)              Font shape `TU/PalatinoLinotype(0)/m/it' tried instead on i
-nput line 3.
- [2]
+] [10]) [11] [12
+
+
+] (chapters/03-definitions.tex
+chapter 1.
+[1
+
+
+] [2] [3]
+File: ../markua/moral-layers.png Graphic file (type bmp)
+<../markua/moral-layers.png>
+ [4] [5]) (chapters/04-what-is-good.tex [6]
 chapter 2.
-[3
+[7
 
 
-] [4]) (chapters/03-definitions.tex [5] [6
+] [8] [9] [10] [11]) (chapters/05-rules.tex [12] [13] [14
 
 
 ]
 chapter 3.
-[7] [8] [9]
-File: ../docs/Morality/moral-layers.png Graphic file (type bmp)
-<../docs/Morality/moral-layers.png>
- [10] [11]) (chapters/04-what-is-good.tex [12]
+[15] [16] [17]
+File: ../markua/kick-out.png Graphic file (type bmp)
+<../markua/kick-out.png>
+ [18]
+File: ../markua/rule-web.png Graphic file (type bmp)
+<../markua/rule-web.png>
+ [19] [20]) (chapters/06-subjective-morality.tex [21]
+[22
+
+
+]
 chapter 4.
-[13
-
-
-] [14] [15] [16] [17]) (chapters/05-rules.tex [18] [19] [20
-
-
-]
+[23] [24] [25]) (chapters/07-moral-relativism.tex [26]
 chapter 5.
-[21] [22] [23]
-File: ../docs/Morality/kick-out.png Graphic file (type bmp)
-<../docs/Morality/kick-out.png>
- [24]
-File: ../docs/Morality/rule-web.png Graphic file (type bmp)
-<../docs/Morality/rule-web.png>
- [25] [26]) (chapters/06-subjective-morality.tex [27]
-[28
+[27
+
+
+]) (chapters/08-objective-truths.tex [28]
+chapter 6.
+File: ../markua/boat-coracle.png Graphic file (type bmp)
+<../markua/boat-coracle.png>
+[29
 
 
 ]
-chapter 6.
-[29] [30] [31]) (chapters/07-moral-relativism.tex [32]
+File: ../markua/boat-racing.png Graphic file (type bmp)
+<../markua/boat-racing.png>
+ [30]
+File: ../markua/dog-morality.png Graphic file (type bmp)
+<../markua/dog-morality.png>
+ [31]) (chapters/09-christian-morality.tex [32]
 chapter 7.
 [33
 
 
-]) (chapters/08-objective-truths.tex [34]
+]
+File: ../markua/divine-command.png Graphic file (type bmp)
+<../markua/divine-command.png>
+ [34]
+File: ../markua/bible.png Graphic file (type bmp)
+<../markua/bible.png>
+ [35] [36] [37] [38]) (chapters/10-objective-morality.tex [39]
+[40]
 chapter 8.
-File: ../docs/Morality/boat-coracle.png Graphic file (type bmp)
-<../docs/Morality/boat-coracle.png>
-[35
+[41
+
+
+] [42] [43] [44]) (chapters/11-love.tex [45] [46
 
 
 ]
-File: ../docs/Morality/boat-racing.png Graphic file (type bmp)
-<../docs/Morality/boat-racing.png>
- [36]
-File: ../docs/Morality/dog-morality.png Graphic file (type bmp)
-<../docs/Morality/dog-morality.png>
- [37]) (chapters/09-christian-morality.tex [38]
 chapter 9.
-[39
-
-
-]
-File: ../docs/Morality/divine-command.png Graphic file (type bmp)
-<../docs/Morality/divine-command.png>
- [40]
-File: ../docs/Morality/bible.png Graphic file (type bmp)
-<../docs/Morality/bible.png>
- [41] [42] [43] [44]) (chapters/10-objective-morality.tex [45]
-[46]
+[47]) (chapters/12-call-to-action.tex [48]
 chapter 10.
-[47
+[49
 
 
-] [48] [49] [50]) (chapters/11-love.tex [51] [52
-
-
-]
-chapter 11.
-[53]) (chapters/12-call-to-action.tex [54]
-chapter 12.
-[55
-
-
-]) (chapters/13-morality-references.tex [56]
-chapter 13.
+]) (chapters/13-morality-references.tex [50]
+chapter A.
 
 Overfull \hbox (14.80098pt too wide) in paragraph at lines 10--12
 \TU/PalatinoLinotype(0)/m/n/10.95 Realm.com, []$[][][][][] [] [] [] [][][] [] [
 ][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][] []
  []
 
-[57
+[51
 
 
 ]
@@ -1403,49 +1402,57 @@ Underfull \hbox (badness 2237) in paragraph at lines 36--37
 Peter
  []
 
-) (chapters/14-living-morally.tex [58]
-chapter 14.
-[59
+) (chapters/14-living-morally.tex [52]
+chapter B.
+[53
 
 
-] [60]) (chapters/15-hand-choppers.tex [61] [62
+] [54]) (chapters/15-hand-choppers.tex [55] [56
 
 
 ]
-chapter 15.
-File: ../docs/Morality/cut-hand-off.png Graphic file (type bmp)
-<../docs/Morality/cut-hand-off.png>
-[63]
-Underfull \hbox (badness 1275) in paragraph at lines 34--36
-[]\TU/PalatinoLinotype(0)/m/n/10.95 Remember that everyone in the tribe wanted 
-this law and
+chapter C.
+File: ../markua/cut-hand-off.png Graphic file (type bmp)
+<../markua/cut-hand-off.png>
+[57]
+Underfull \hbox (badness 1275) in paragraph at lines 31--32
+\TU/PalatinoLinotype(0)/m/n/10.95 Remember that everyone in the tribe wanted th
+is law and
  []
 
-[64] [65]) [66]
-No file moral-realism.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
-(moral-realism.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 61.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
+[58] [59]) [60] (moral-realism.ind
+Underfull \hbox (badness 3407) in paragraph at lines 3--4
+[]\TU/PalatinoLinotype(0)/m/n/10.95 Divine Command Theory,
+ []
+
+[61
 
 
-Package rerunfilecheck Warning: File `moral-realism.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `moral-realism.out':
-(rerunfilecheck)             Before: 
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
+
+
+
+
+
+
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
+ (moral-realism.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 64.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
+Package rerunfilecheck Info: File `moral-realism.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 64.
  ) 
 Here is how much of TeX's memory you used:
- 35795 strings out of 427243
- 706702 string characters out of 3141512
- 907389 words of memory out of 3000000
- 39820 multiletter control sequences out of 15000+200000
+ 35806 strings out of 427243
+ 706478 string characters out of 3141512
+ 917727 words of memory out of 3000000
+ 39823 multiletter control sequences out of 15000+200000
  540233 words of font info for 90 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 66i,9n,99p,10092b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,9n,99p,10092b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on moral-realism.pdf (70 pages).
+Output written on moral-realism.pdf (73 pages).

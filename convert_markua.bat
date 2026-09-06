@@ -1,0 +1,1 @@
+convert F:\GitHub\morals\markua\moral-realism.manifest
