@@ -1,7 +1,7 @@
 ---
 
 ---
-# What is a Good Action?
+# What is a Good Action?{i: action!good}{i: good!action}
 
 What does it mean to say that an action is morally good?  What makes a particular action morally bad?  Where doe "moral valence" (the measure of how good/bad an action is) come from?
 
@@ -18,7 +18,7 @@ _The right thing to do is not always beneficial to us._  Morality is about the s
 _What about two people who do the exact same thing?  For example "lighting a fire."  One person does it in a fireplace to heat the room full of freezing people.  The other person does it on a crowded airplane while it is flying._  Those are different acts, because they occur in different contexts.  The next section is about how the result of an act depends on the context, and the same physical movement might have completely different outcomes.
 
 
-## Actions in Context
+## Actions in Context{i: action!context}{i: context}
 
 The action is not simply a movement of an agent, but it is that movement in the context of where they are, and all other people involved.  The exact same movement might have completely different results.  Breaking glass is normally a bad thing to do, but if there is a fire then breaking the glass to get to a fire alarm is considered a good thing.
 
@@ -32,7 +32,7 @@ Consider the act of "slicing meat". Is that good or bad? It depends.
 
 The motion of "slicing meat" is the same at some level, but without knowing the context and the entire situation around it, we can never say whether that particular motion is good or bad.  The motion, the context, and all the related situation must be considered together, and it is that entire combination that we will refer to as an "act" or "action" for the rest of this writing.
 
-## Action Scope and Duration
+## Action Scope and Duration{i: action!scope}{i: action!duration}
 
 An act may be long or short in duration, and in the performing of one act, you might also at the same time be performing dozens of other actions.  For example, the act of "going to college" can take four or more years.  The act of entertaining someone might involve the action of cooking dinner, which in turn involves the act of cutting meat.  
 
@@ -40,7 +40,7 @@ There is no definite boundary on any action.  An action must be something that a
 
 In considering any situation, we must determine the actions that are available to us.  As such, many actions are culturally defined.  Different cultures, different regions, different groups, might break out what constitutes an "act" differently, and in some cases the judgement is built into the description.  Did someone lie, or did they just say something too loosely?  Or did they blaspheme?  Or did they perjure themselves?  Different cultures, or even sometimes simply people with different points of view, will describe the same thing differently.  When comparing different moral systems, one has to be careful to isolate the action to purely what was done, and not a description that selects according to a judgement.
 
-## Why Is Survival Good?
+## Why Is Survival Good?{i: survival}
 
 For a moment, lets consider a slightly different question: why does sugar taste good?  Why does ice cream taste good?  Ice cream is very rich in energy: sugar and fat are almost pure energy.  Imagine a couple starving cave men happening upon an ice cream store.  In cave man times life was rough and people lived on the edge of starvation, and a bad winter was life threatening due simply to not enough food, not enough energy, to live.  Our two cave men have a difference: one absolutely loves the taste of fat and sugar, and the other hates it.  The one who loves the taste will obviously fill up on the energy rich ice cream because you never quite know if you will encounter that again, while the other, the one who hates the taste of fat and sugar avoids eating the energy rich food.  Which one is going to live longer?
 
@@ -50,7 +50,7 @@ The exact same thing happens with good behaviors.  Do we recognize behaviors as 
 
 We have a sense about what is _good_ and _evil_.  It is not always right, but often it is.  That sense had been learned over time.  Early on, it might have been random: half did one thing, and the other half did the opposite.  But over time, the bad ideas get weeded out.
 
-## Oriented to Collective Good
+## Oriented to Collective Good{i: collective good}
 
 Good for whom?  An action that is good only for the agent is considered selfish, and not really good in a moral sense.  A right action needs to be good for more than the individual making the choice.
 
@@ -58,7 +58,7 @@ Good for what group?  Humans naturally live in groups.  A good action should be 
 
 Even humanity is not quite inclusive enough.  We talk about animals rights along with the morality of cruelty to animals.  So what is the scope?  There is a feeing that the action has to be right from some kind of universal perspective.  That is, a good action is fundamentally good in itself.
 
-## Is Good really Good
+## Is Good Really Good{i: really good}
 
 This might be something that is shown to be good for you, and good for your tribe, but is it really _good_ in the moral sense?  _What if you or your tribe are actually bad and it would be a good thing to wipe you out._
 
@@ -66,7 +66,7 @@ This argument is appealing to the mystery of morality, the idea that an action c
 
 To think that moral value of something is arbitrary and simply picked by omniscient god means that moral values are not real, but only arbitrary.  Some believers might decide that is more comfortable to them, but we need not believe in the arbitrary moral maker.  There are good ways that the actions produce good results as a consequence -- on average across many people and in the appropriate situations.  The moral value of such actions are not arbitrary.  There exist moral truths, and the next chapter goes into detail on how these exist and how they come about.
 
-## Moral Propositions don't Matter
+## Moral Propositions don't Matter{i: moral!propositions}
 
 Some people like to frame the moral debate in terms of propositions (statements that something is good or not) and whether those statements are true or false.  
 

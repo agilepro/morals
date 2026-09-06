@@ -1,15 +1,15 @@
 ---
 
 ---
-# Introduction
+# Introduction{i: introduction}
 
 This book is for everyone who has lived, and wondered what was the right way to live.  It may be easy to know what you want to do at the moment, but how should I live my life the right way that will preserve what I have short term gain, only to find that I have squandered more in the long term as a consequence.
 
-Ancient philosophers debated ethics and morality, which is the topic of how to live the _right life_ (also called the _good life_ or _eudaimonia_). It is a question that was probably first asked at the time mankind first began to talk.
+Ancient philosophers debated ethics and morality, which is the topic of how to live the _right life_ (also called the _good life_ or _eudaimonia_). It is a question that was probably first asked at the time mankind first began to talk.{i: eudaimonia}
 
 Many of of my non-religious friends struggle to understand what should be considered the source of morality.  These are fine upstanding moral people.  They understand what it means to be fair, good, and kind.  They would not live their lives any other way.  But they are not really sure where morals come from.  
 
-So much written about morality comes from a religious point of view.  The Christians and the Muslims each arrogantly claim to have an exclusive access to morality, and readily spew invectives calling everyone else is baseless immoral heathens, especially atheists.  History is replete with examples of religious wars, religious persecution, burning atheists at stakes for not believing the right things, and so many examples of religions not living up to the claim of being moral.
+So much written about morality comes from a religious point of view.  The Christians and the Muslims each arrogantly claim to have an exclusive access to morality, and readily spew invectives calling everyone else is baseless immoral heathens, especially atheists.  History is replete with examples of religious wars, religious persecution, burning atheists at stakes for not believing the right things, and so many examples of religions not living up to the claim of being moral.{i: religion}
 
 Most non-religious friends live as moral a life as any church-goer.  Like most people, they have a sense of right and wrong.  But the question remains: where does that sense of right and wrong come from?  Is it, as the Christians insist, the result of a God commanding us to behave a certain way?  If not God, then how do we explain that there are right and wrong ways to do things?  Did they occur randomly?    Many atheists turn to the idea that morality is subjective, that the best way to live is whatever you decide it to be,  I will show that to be a mistaken concept as well.
 

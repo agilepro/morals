@@ -1,13 +1,13 @@
 ---
 
 ---
-# Objective Morality
+# Objective Morality{i: objective morality}
 
 Objective morality (also known as Moral Objectivism or Moral Realism) is _the philosophical belief that moral principles and values are universally true and exist independently of human opinion, cultural norms, or personal feelings._
 
 :::tip
 
-Bob feeds the orphans. This is a good act because humans only survive when the tribe survives.  Those children may be in need of help today, but in the future they may be in a position to help Bob in return. Sam does not feed the orphans.  This is bad because when the children starve, the tribe would be smaller, and there might be a time that Sam could use help but it is not there.
+Bob feeds the orphans. This is a good act because humans only survive when the tribe survives.  Those children may be in need of help today, but in the future they may be in a position to help Bob in return. Sam does not feed the orphans.  This is bad because when the children starve, the tribe would be smaller, and there might be a time that Sam could use help but it is not there.{i: orphan feeding}
 
 :::
 

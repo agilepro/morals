@@ -1,4 +1,4 @@
-# Parable of the Hand Choppers
+# Parable of the Hand Choppers{i: hand choppers parable}
 
 :::tip[Key Takeaway]
 
@@ -8,7 +8,7 @@ A law passed to remove everyone's right hand would be an immoral law, even if ev
 
 ## Situation
 
-Imagine a tribe or a culture which for some unusual reason decided that it would be a good thing for everybody to chop off their right hands. Of course this tribe is insane because we all intuitively know that this is a very bad idea. But let's set that aside for a moment.  
+Imagine a tribe or a culture which for some unusual reason decided that it would be a good thing for everybody to chop off their right hands. Of course this tribe is insane because we all intuitively know that this is a very bad idea. Set that aside for a moment.
 
 The tribe gets together and comes to a unanimous agreement that all right hands should be removed.  They are removed surgically under anesthesia and the wound is healed without pain.  There is no suffering from the hand removal process.  The right hand is just cleanly removed.
 
@@ -22,7 +22,7 @@ The consequence of removing everyone's right hand would be disastrous for the tr
 
 Because this law seriously endangers the survival of the tribe, and the people within it, we can say assuredly that this law is bad.  It is an objectively immoral law.
 
-## Subjective Morals Can Not Explain This
+## Subjective Morals Can Not Explain This{i: subjective morals}
 
 Remember that everyone in the tribe wanted this law and thought it was good.  If morals were _subjective_, that would be the end of the story: the law would be good because everyone thought it was good.  
 
@@ -34,10 +34,8 @@ You see, it does not matter at all that everyone in the tribe thought it would b
 
 > What if there was a virus that only infected the right hand, and was 100% fatal if the hand was not chopped off.
 
-Here we see an attempt by someone to define a special case whereby the action of chopping off the hand would be good.  I don't need to point out that there is no virus like that described, and it is exceedingly unlikely to ever exist with that peculiar set of symptoms.  So it is a completely unrealistic hypothetical.
+Here we see an attempt by someone to define a special case whereby the action of chopping off the hand would be good.  There is no virus like that described, and it is exceedingly unlikely to ever exist, making this a completely unrealistic hypothetical.
 
-The point about making any scenarios is that you specify the relevant details, and whatever is omitted from the description is presumed to be "normal".  Such a virus is far from normal.  This question is posing an entirely different hypothetical.
+However, if it was true that such a virus existed, then the act of chopping off the hands would be objectively good.  Such a virus is part of the context, and must be included when considering the morality of an action.  Without the virus, the action remains a morally bad one.
 
-It is worth pointing out that morals are situational.  Lighting a fire in a fireplace is fine, lighting a fire on a crowded passenger jet while flying is not good.  We can not divorce the action from the situation.  One can not make a general claim about the morality of lighting fires and expect that to extend equally to all situations.
-
-The situation in the parable is that the law was passed, and there is no such virus or anything else unusual about the situation that would make hand chopping good.  Stick to the situation as it was presented.
+Morals are situational:  Lighting a fire in a fireplace is fine, lighting a fire on a crowded passenger jet while flying is not good.  The action must always be considered within the situation.{i: morals!situational}

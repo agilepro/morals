@@ -1,11 +1,11 @@
 ---
 
 ---
-# Moral Rules are Inadequate
+# Moral Rules are Inadequate{i: rules!inadequate}
 
 We often discuss morality in terms of "rules to live by.". In this chapter I want to make a distinction between the logic that guides moral behavior, and the rules that we use when discussing what should and should not be done.
 
-## Rules are Simple
+## Rules are Simple{i: rules!simple}
 
 Rules are short simple statements to guide behavior.  Some example rules are:
 
@@ -23,7 +23,7 @@ Those rules are stated in imperative form, but we can also state them in evaluat
 
 The thing to note about rules is that they are short and simple. Their brevity makes them useful.  Rules can be said quickly, and they communicate a great deal of value in guiding behavior.  They can be used as a rough guide for behavior for a large variety of situations.  For example: don't enter that room.  Or, don't touch the wires.  Always close the door behind you.  There could be many good reasons to avoid or promote these behaviors, but listing out all those reasons is tedious and time consuming.  Giving a short rule might be all you need to know to act morally most of the time.
 
-## Slicing Actions Apart
+## Slicing Actions Apart{i: slicing actions}
 
 The swirl of motion in the universe needs to be broken into separate identifiable repeatable patterns which we name in order to talk about them.  The way to divide motion into patterns is somewhat arbitrary.  The way you divide motions into recognized behaviors can depend on the cultural setting, which both affects and is affected by the customs of that culture.  Yet the common human condition across the world leads similar definitions for all the most common behaviors.
 
@@ -35,7 +35,7 @@ To recognize an action, we need to "slice it out" of reality: that is we select 
 
 Rules can be short because they leverage well-known defined behaviors, and some behaviors are defined purely to be used in rules about whether you should or should not do them.
 
-## Rules are Approximate
+## Rules are Approximate{i: rules!approximate}
 
 Because of their brevity, rules can't be fully accurate across the broad variety of real situations.
 
@@ -43,7 +43,7 @@ We know that lying is bad, but we also know that a "white lie" is OK.  Honesty i
 
 Some rules apply 99% of the time, and some are closer to 60% of the time, but it is understood that for all rules, there will be exceptions.  In most cases, the validity of the exception will depend upon specifics of the situation which we call the context.
 
-## Context
+## Context{i: context}
 
 Rules apply differently in different contexts.  A good rule applies in all the most normally encountered situations, but there will always be unusual situations, known as exceptional situations, where the rule should not be followed.  We rely on some measure of common knowledge to distinguish exceptional situations where the rule should be ignored.
 
@@ -59,7 +59,7 @@ We know that lying is a bad behavior, but in the classic example when the Nazis 
 
 This does not mean that the person answering the door of Anne Frank has different morals than us.  It means instead that the morality of lying depends on whether the a life depends on whether we lie or not.  The rule about lying is not simply "don't ever lie" but instead something like "don't lie unless there is a good reason to lie then it is OK."
 
-## Moral Guidelines Are Not So Simple
+## Moral Guidelines Are Not So Simple{i: guidelines}{i: moral!guidelines}
 
 We are limited beings, and as such we would like simple rules to live by.  Rules like "do X" and "don't do Y" would be great because they are easy to remember and to tell each other.
 
@@ -69,17 +69,17 @@ The purposeful crashing of UA flight 93 in a field in Pennsylvania on 9/11 was a
 
 ![](rule-web.png)
 
-## Simple rules can't express the whole story
+## Simple rules can't express the whole story{i: rules!completeness}
 
 When we see that morality appears to be different in different cultures, we need to consider the context that the culture lives in.  Morality for an Inuit may be different than morality for a Tahitian but what is different is the simplistic guideline that we use in place of the real, complex moral equation.  The differences between cultures can be explained by a single complex rule that applies differently to different environment.
 
 Or one of them might be simply wrong.  But in any case we will see that morals can not be different for different people just because they wish them to be.
 
-## Moral Rules are Inadequate in Four Ways
+## Moral Rules are Inadequate in Four Ways{i: rules!inadequate}
 
-**Brevity**: a rule can be stated in a brief sentence: "don't break windows".  For most windows you encounter -- probably more than 99.99% of them -- if you follow this rule you will be safe.  But occasionally there are situations that are exceptions.  If there is a fire, and someone is trapped inside, it is OK to break the window to save them.  We put glass in front of fire alarms for the same reason: if there really is a fire then breaking the window is preferable to letting the fire burn down the house.  
+**Brevity**: a rule can be stated in a brief sentence: "don't break windows".  For most windows you encounter -- probably more than 99.99% of them -- if you follow this rule you will be safe.  But occasionally there are situations that are exceptions.  If there is a fire, and someone is trapped inside, it is OK to break the window to save them.  We put glass in front of fire alarms for the same reason: if there really is a fire then breaking the window is preferable to letting the fire burn down the house.{i: rules!brevity}
 
-**Classification**: Rules talk about a set of actions which are categorized in a certain way.  For example:
+**Classification**: Rules talk about a set of actions which are categorized in a certain way.  For example:{i: rules!classification}
 
 * Using a knife to slice meat for a meal
 * Using a knife to slice a person on the street 
@@ -87,9 +87,9 @@ Or one of them might be simply wrong.  But in any case we will see that morals c
 
 The first is a good action normally part of preparing food.  The second adds context to describe an attack which is bad.  The third adds more context to refine the situation into surgery which might be life saving and good.  
 
-**Scope**: It is generally the case that the action can be defined by the immediate surroundings at the time, but in some cases situations quite far away or removed in time might have relevance.  An act that is permissible in private, might be illegal in public.  An act performed in one city or state might be legal while the same act in a different state is illegal.  It is possible that an occurrence on the other side of the world has bearing.  Considering the entire state of the entire universe is not possible nor reasonable, so some judgement needs to be used to assure that enough scope is included to decide the morality of an action.
+**Scope**: It is generally the case that the action can be defined by the immediate surroundings at the time, but in some cases situations quite far away or removed in time might have relevance.  An act that is permissible in private, might be illegal in public.  An act performed in one city or state might be legal while the same act in a different state is illegal.  It is possible that an occurrence on the other side of the world has bearing.  Considering the entire state of the entire universe is not possible nor reasonable, so some judgement needs to be used to assure that enough scope is included to decide the morality of an action.{i: rules!scope}
 
-**Exceptions**: To keep the rules brief, there is an understanding that for every rule there are a number of exceptions which counteract the regular rule.  In an emergency, a lot of things become permissible, but then what exactly is an emergency?   What are all the exceptional situations for breaking a window?  In a perfect moral system it might be that every rule would be complete and would stand alone and unambiguous, but those rules would be incredibly detailed, impossible to learn, impossible to recite, and not usable on a daily basis.
+**Exceptions**: To keep the rules brief, there is an understanding that for every rule there are a number of exceptions which counteract the regular rule.  In an emergency, a lot of things become permissible, but then what exactly is an emergency?   What are all the exceptional situations for breaking a window?  In a perfect moral system it might be that every rule would be complete and would stand alone and unambiguous, but those rules would be incredibly detailed, impossible to learn, impossible to recite, and not usable on a daily basis.{i: rules!exceptions}{i: exceptions}
 
 ## In The End
 

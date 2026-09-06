@@ -60,7 +60,7 @@ Good for what group?  Humans naturally live in groups.  A good action should be 
 
 Even humanity is not quite inclusive enough.  We talk about animals rights along with the morality of cruelty to animals.  So what is the scope?  There is a feeing that the action has to be right from some kind of universal perspective.  That is, a good action is fundamentally good in itself.
 
-## Is Good really Good
+## Is Good Really Good
 
 This might be something that is shown to be good for you, and good for your tribe, but is it really _good_ in the moral sense?  _What if you or your tribe are actually bad and it would be a good thing to wipe you out._
 

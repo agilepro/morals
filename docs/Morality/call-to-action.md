@@ -8,7 +8,7 @@ format: md
 
 This book says impossible to know what is and is not the right thing to do.  How can I then suggest things that you should are should not do?  How could I know that?  The miracle of the human conditions: we can talk about what is and is not good, without being 100% certain that we are right or wrong.
 
-I hope that my non-believing friends will see that subjective morality is referring to a superficial aspect of morality.  This is about the claims that people make about their beliefs, and about their intentions.  Such as “I believe capital punishment is immoral.”  We simply can't know whether this is true or not.  Maybe someday we will know, but for now it is a guess, it is an estimate. 
+I hope that my non-believing friends will see that subjective morality is referring to a superficial aspect of morality.  This is about the claims that people make about their beliefs, and about their intentions.  Such as “I believe capital punishment is immoral.”  We simply can't know whether this is true or not.  Maybe someday we will know, but for now it is a guess, it is an estimate.
 
 Such a statement does reveal that the speak intents to act in concordance with that.  They will vote against capital punishment, and might even object on moral grounds to refuse to participate in such an action.  These claims are evidence of a subjective opinion: I find capital punishment distasteful.
 

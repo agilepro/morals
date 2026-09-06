@@ -1,7 +1,7 @@
 ---
 
 ---
-# Love
+# Love{i: love}
 
 What does love have to do with morality?
 
@@ -9,7 +9,7 @@ Love is the human superpower that makes morality work.  Love is that propensity 
 
 _Gee, I would like to have that big screen TV, but I am not going to steal it.  I will have to wait until I have earned enough to afford it._
 
-Living a moral lifestyle is not altruistic.  In the fullness of your life, staying on the moral track will benefit you as much as anyone else.  
+Living a moral lifestyle is not altruistic.  In the fullness of your life, staying on the moral track will benefit you as much as anyone else.{i: altruism}
 
 On a simple level, your relationships with everyone you know will be better.  They don't need to fear you will steal from them, and they will trust you with things they might otherwise be guarded about.  
 

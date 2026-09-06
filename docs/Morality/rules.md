@@ -80,7 +80,7 @@ Or one of them might be simply wrong.  But in any case we will see that morals c
 
 ## Moral Rules are Inadequate in Four Ways
 
-**Brevity**: a rule can be stated in a brief sentence: “don't break windows”.  For most windows you encounter — probably more than 99.99% of them — if you follow this rule you will be safe.  But occasionally there are situations that are exceptions.  If there is a fire, and someone is trapped inside, it is OK to break the window to save them.  We put glass in front of fire alarms for the same reason: if there really is a fire then breaking the window is preferable to letting the fire burn down the house.  
+**Brevity**: a rule can be stated in a brief sentence: “don't break windows”.  For most windows you encounter — probably more than 99.99% of them — if you follow this rule you will be safe.  But occasionally there are situations that are exceptions.  If there is a fire, and someone is trapped inside, it is OK to break the window to save them.  We put glass in front of fire alarms for the same reason: if there really is a fire then breaking the window is preferable to letting the fire burn down the house.
 
 **Classification**: Rules talk about a set of actions which are categorized in a certain way.  For example:
 

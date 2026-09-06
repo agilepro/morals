@@ -10,7 +10,7 @@
 \contentsline {section}{\nonumberline Action Scope and Duration}{9}{section*.12}% 
 \contentsline {section}{\nonumberline Why Is Survival Good?}{10}{section*.13}% 
 \contentsline {section}{\nonumberline Oriented to Collective Good}{11}{section*.14}% 
-\contentsline {section}{\nonumberline Is Good really Good}{11}{section*.15}% 
+\contentsline {section}{\nonumberline Is Good Really Good}{11}{section*.15}% 
 \contentsline {section}{\nonumberline Moral Propositions don't Matter}{12}{section*.16}% 
 \contentsline {chapter}{\numberline {3}Moral Rules are Inadequate}{15}{chapter.3}% 
 \contentsline {section}{\nonumberline Rules are Simple}{15}{section*.17}% 
@@ -50,17 +50,18 @@
 \contentsline {chapter}{\numberline {9}Love}{47}{chapter.9}% 
 \contentsline {chapter}{\numberline {10}A Modest Request}{49}{chapter.10}% 
 \contentsline {chapter}{\numberline {A}References and Resources}{51}{appendix.A}% 
-\contentsline {section}{\nonumberline YouTube Videos}{51}{section*.46}% 
+\contentsline {section}{\nonumberline Web Sites}{51}{section*.46}% 
+\contentsline {section}{\nonumberline YouTube Videos}{51}{section*.47}% 
 \contentsline {chapter}{\numberline {B}Origins of Objective Morals}{53}{appendix.B}% 
-\contentsline {section}{\nonumberline Ideal Observer (David Hume)}{53}{section*.47}% 
-\contentsline {section}{\nonumberline Categorical Imperative (Immanuel Kant)}{54}{section*.48}% 
-\contentsline {section}{\nonumberline Utilitarianism (Jeremy Bentham, John Stuart Mill, Peter Singer)}{54}{section*.49}% 
-\contentsline {section}{\nonumberline Prescriptivism (Richard Hare)}{55}{section*.50}% 
-\contentsline {section}{\nonumberline Social Contract (John Rawls)}{55}{section*.51}% 
-\contentsline {section}{\nonumberline Stoic Cosmopolitanism (Massimo Pigliucci, John Shook)}{55}{section*.52}% 
+\contentsline {section}{\nonumberline Ideal Observer (David Hume)}{53}{section*.48}% 
+\contentsline {section}{\nonumberline Categorical Imperative (Immanuel Kant)}{54}{section*.49}% 
+\contentsline {section}{\nonumberline Utilitarianism (Jeremy Bentham, John Stuart Mill, Peter Singer)}{54}{section*.50}% 
+\contentsline {section}{\nonumberline Prescriptivism (Richard Hare)}{55}{section*.51}% 
+\contentsline {section}{\nonumberline Social Contract (John Rawls)}{55}{section*.52}% 
+\contentsline {section}{\nonumberline Stoic Cosmopolitanism (Massimo Pigliucci, John Shook)}{55}{section*.53}% 
 \contentsline {chapter}{\numberline {C}Parable of the Hand Choppers}{57}{appendix.C}% 
-\contentsline {section}{\nonumberline Situation}{57}{section*.53}% 
-\contentsline {section}{\nonumberline Moral Assessment}{58}{section*.54}% 
-\contentsline {section}{\nonumberline Subjective Morals Can Not Explain This}{59}{section*.55}% 
-\contentsline {section}{\nonumberline Questions}{59}{section*.56}% 
-\contentsline {chapter}{Index}{61}{section*.57}% 
+\contentsline {section}{\nonumberline Situation}{57}{section*.54}% 
+\contentsline {section}{\nonumberline Moral Assessment}{58}{section*.55}% 
+\contentsline {section}{\nonumberline Subjective Morals Can Not Explain This}{59}{section*.56}% 
+\contentsline {section}{\nonumberline Questions}{59}{section*.57}% 
+\contentsline {chapter}{Index}{61}{section*.58}% 
