@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
+format: md
 ---
+
 # Essentials of Moral Realism
 
 This is a very short book on morality, what it is and what it means to us. Thought I hope to clarify a few things.
@@ -13,4 +15,4 @@ I have kept this as short and to the point as I can, but I give references to pl
 
 Please enjoy.
 
-![Philosopher](philosopher.jpg)
+![Philosopher](./philosopher.jpg)

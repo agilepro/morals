@@ -1,5 +1,7 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
+format: md
+
 ---
 
 # Objective Truths
@@ -14,11 +16,11 @@ Is there an objective truth about the design of boats, and if so, who created th
 
 Consider the ancient coracle boat which is the simplest boat possible and it is a design that was created by humans 100,000 years ago.  One can imagine ancient humans running a competition to see who, among a field of such boats, could get to the finish line the fastest.
 
-![](boat-coracle.png)
+![](./boat-coracle.png)
 
 As time went on, boat design advanced in many ways and with many materials.  Each advance made a boat that was objectively better up to the fastest sailing boats that humans have ever made: the Americas Cup winners.  Through trial and testing of many different design options, boat makers found out what worked and what does not work as far as making a sailing boat go fast.  The monohull gave way to the catamaran.  Carbon fiber replaced wood.  Tall sails were found more effective than wide sails.  Etc.
 
-![](boat-racing.png)
+![](./boat-racing.png)
 
 Of course different designs will be optimal for different purposes.  If you need to transport a large amount of oil from one continent to another, then a very different design will be optimal.  The design is related to the purpose, but an optimal design can be said to exist for any purpose.
 
@@ -30,7 +32,7 @@ Nobody invented the truths about good boat design.  The particular optimal desig
 
 Dog have moral truths as well.  There is a kind of dog morality that helps the pack function.  Some of these are so obvious; for example a dog does not kill another dog in the pack, that is, murder is not allowed.  Not all animals do this.   Dog have specific rules about eating.  Dogs respect property rights; they don't steal things that other dogs own.
 
-![](dog-morality.png)
+![](./dog-morality.png)
 
 Dogs are social animals that need to cooperate to survive.  They have to work together.  That means there has to be rules about how they interact.  These rules are either instinctual or taught from parent to pup.  If they are taught, then how did this ability to teach and to learn moral rules develop?
 

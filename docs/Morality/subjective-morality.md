@@ -1,6 +1,9 @@
 ---
-  sidebar_position: 5
+sidebar_position: 6
+format: md
+
 ---
+
 # Subjective Morality
 
 Subjective Morality, also known as Moral Subjectivism, is the _Philosophical belief that moral truths are not universal or absolute, but are instead dependent upon the attitudes, feelings, opinions, or conventions of individuals or groups._
@@ -12,13 +15,14 @@ To say that a morality is subjective is to say that what is _good_ varies from p
 :::tip
 
 Bob feeds the orphans. We (the observers) can say that this is a good act if we feel that helping vulnerable children is a good thing to do and makes us feel good. Sam does not feed the orphans. We can say that Sam's action is bad, because it feels bad to leave children vulnerable to starvation.
+
 :::
 
 ## Meaning Of Subjective
 
-The best example of a subjective claim is that of your favorite flavor of ice cream.  When faced with choosing a flavor, however you pick that is based on your own memory of experiences in the past, and your own estimation of what you would like to experience today.  If you decide that "Cherry Garcia" is your favorite flavor, then that is what your favorite flavor is.  
+The best example of a subjective claim is that of your favorite flavor of ice cream.  When faced with choosing a flavor, however you pick that is based on your own memory of experiences in the past, and your own estimation of what you would like to experience today.  If you decide that “Cherry Garcia” is your favorite flavor, then that is what your favorite flavor is.  
 
-Nobody can say you are wrong.  I can not say that your favorite is not that, or that in fact your favorite flavor is "Dutch Chocolate".  I can suggest arguments that it should not be such, but I can not truthfully say that you are _wrong_ about your favorite.  I have no access to your memories or your desires.  A subjective claim is true if you say it is true, and nobody can argue otherwise.
+Nobody can say you are wrong.  I can not say that your favorite is not that, or that in fact your favorite flavor is “Dutch Chocolate”.  I can suggest arguments that it should not be such, but I can not truthfully say that you are _wrong_ about your favorite.  I have no access to your memories or your desires.  A subjective claim is true if you say it is true, and nobody can argue otherwise.
 
 If a moral claim was subjective, then whatever you claim would by definition be true.  If you claim that drinking alcohol is a actually a good moral behavior, then nobody can ever say you are wrong.  Alcohol drinking would be _good_ (for you) because you say it is good.
 

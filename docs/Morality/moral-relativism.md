@@ -1,6 +1,9 @@
 ---
-  sidebar_position: 6
+sidebar_position: 7
+format: md
+
 ---
+
 # Moral Relativism
 
 Moral relativism takes one step further than moral subjectivism.  Not only are there no moral truths, only moral opinions, but everyone's opinions are right for them.
@@ -18,4 +21,3 @@ If you truly believe that morality is subjective, then you must accept the reali
 You have to hold in your head that bloodletting is both good and bad.  Each different person defines a different set of morals, and according to subjective morality, those are true morals for each of them at the same time.  But how can bloodletting be both moral and immoral at the same time, for different people?
 
 Moral relativist have to believe that the morality of Bob is independent of the morality of Sam.  If you go to Bob's house, then bloodletting really is good for you.  But at Sam's house it really is bad.  
-

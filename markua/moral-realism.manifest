@@ -9,9 +9,16 @@ author:   "Keith Swenson"
 date:     "March 2026"
 
 # Where the generated LaTeX goes, relative to this file.
-output:
-  directory: ../latex
+latex:                        # omit the block to build no book
+  directory: ../latex         # where the .tex files go
   main:      moral-realism.tex
+
+docusaurus:                   # omit the block to build no site
+  directory: ../docs/morality
+  category:  "Moral Realism"  # sidebar label. Default: the book title
+  position:  2                # where the section sits in the sidebar
+  format:    md               # md | mdx | none
+  assets:    true             # copy referenced images alongside
 
 document:
   class:       book        # book | report | article

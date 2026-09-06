@@ -1,9 +1,12 @@
 ---
-  sidebar_position: 20
+sidebar_position: 14
+format: md
+
 ---
+
 # Origins of Objective Morals
 
-> In the face of religious polemics, counting ourselves as 'subjectivists' or 'relativists' puts us at a significant social and political disadvantage. -- Leslie Allen, Director Humanists of Australia
+> In the face of religious polemics, counting ourselves as 'subjectivists' or 'relativists' puts us at a significant social and political disadvantage. — Leslie Allen, Director Humanists of Australia
 
 Six different theories on morality that require no divinity:
 
@@ -22,7 +25,7 @@ The problem with this theory is that nobody is omniscient, and it is hard for us
 
 ## Categorical Imperative (Immanuel Kant)
 
-People have moral duties which they must follow as a duty.  Kant's theory focusses on the morality of actions, which is different than the morality of consequences.  "Act only according to that maxim whereby you can at the same time will that it should become a universal law."   The problem is that conditionality can not be attached to the imperatives. Each act has to be defined as an independent act.  For example lying: Kant has nothing to say about the Nazis that come to the Anne Frank door: lying is simply lying and it is better that people die than that you say a falsehood.  We know that context matters, and that an an act can not defined in such a way that it is independent of context.
+People have moral duties which they must follow as a duty.  Kant's theory focusses on the morality of actions, which is different than the morality of consequences.  “Act only according to that maxim whereby you can at the same time will that it should become a universal law.”   The problem is that conditionality can not be attached to the imperatives. Each act has to be defined as an independent act.  For example lying: Kant has nothing to say about the Nazis that come to the Anne Frank door: lying is simply lying and it is better that people die than that you say a falsehood.  We know that context matters, and that an an act can not defined in such a way that it is independent of context.
 
 ## Utilitarianism (Jeremy Bentham, John Stuart Mill, Peter Singer)
 

@@ -1,3 +1,8 @@
+---
+sidebar_position: 15
+format: md
+---
+
 # Parable of the Hand Choppers
 
 :::tip[Key Takeaway]
@@ -36,7 +41,7 @@ You see, it does not matter at all that everyone in the tribe thought it would b
 
 Here we see an attempt by someone to define a special case whereby the action of chopping off the hand would be good.  I don't need to point out that there is no virus like that described, and it is exceedingly unlikely to ever exist with that peculiar set of symptoms.  So it is a completely unrealistic hypothetical.
 
-The point about making any scenarios is that you specify the relevant details, and whatever is omitted from the description is presumed to be "normal".  Such a virus is far from normal.  This question is posing an entirely different hypothetical.
+The point about making any scenarios is that you specify the relevant details, and whatever is omitted from the description is presumed to be “normal”.  Such a virus is far from normal.  This question is posing an entirely different hypothetical.
 
 It is worth pointing out that morals are situational.  Lighting a fire in a fireplace is fine, lighting a fire on a crowded passenger jet while flying is not good.  We can not divorce the action from the situation.  One can not make a general claim about the morality of lighting fires and expect that to extend equally to all situations.
 

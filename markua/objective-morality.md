@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+
 ---
 # Objective Morality
 
@@ -49,7 +49,7 @@ The fact that I cannot tell you whether capital punishment is moral or not does 
 
 So we have to treat the morals all together. A tribe holds a set of morals to be true, and then that tribe either survives or it doesn't. Other tribe how different combinations, and again it is survival that says whether they are right.  Occasionally societies appear with bad morals, like the Nazis, but they died out because their morals were bad. So did the communists. The fact that they died out is evidence (maybe proof) that their morals were wrong.
 
-So it is hard to determine what is and is not objectively moral, but that does not mean that objective morality does not exist. Cultures are selected to survive based on whether their morals are 'true".
+So it is hard to determine what is and is not objectively moral, but that does not mean that objective morality does not exist. Cultures are selected to survive based on whether their morals are "true".
 
 A simple moral rule can be wrong. With subjective morality, no moral rule can ever be wrong: what you think is right is right. But morality is objective because tribes and cultures survive or die based on their moral rules.
 

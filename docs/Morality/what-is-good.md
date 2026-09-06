@@ -1,9 +1,12 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
+format: md
+
 ---
+
 # What is a Good Action?
 
-What does it mean to say that an action is morally good?  What makes a particular action morally bad?  Where doe "moral valence" (the measure of how good/bad an action is) come from?
+What does it mean to say that an action is morally good?  What makes a particular action morally bad?  Where doe “moral valence” (the measure of how good/bad an action is) come from?
 
 ## Only Actions Matter
 
@@ -15,30 +18,29 @@ _Wait, that is too easy.  What if you don't want to do the morally good action?_
 
 _The right thing to do is not always beneficial to us._  Morality is about the success of the tribe, not necessarily the individual.  Moral guidelines help us to live together successfully, and by that means helping to assure the survival of all, but not always everyone.  A soldier going off to war is doing the right moral thing for his country and his community, but they are also taking a big risk personally.  Still, most soldiers do come home and the net benefit to their family and community is substantial.
 
-_What about two people who do the exact same thing?  For example "lighting a fire."  One person does it in a fireplace to heat the room full of freezing people.  The other person does it on a crowded airplane while it is flying._  Those are different acts, because they occur in different contexts.  The next section is about how the result of an act depends on the context, and the same physical movement might have completely different outcomes.
-
+_What about two people who do the exact same thing?  For example “lighting a fire.”  One person does it in a fireplace to heat the room full of freezing people.  The other person does it on a crowded airplane while it is flying._  Those are different acts, because they occur in different contexts.  The next section is about how the result of an act depends on the context, and the same physical movement might have completely different outcomes.
 
 ## Actions in Context
 
 The action is not simply a movement of an agent, but it is that movement in the context of where they are, and all other people involved.  The exact same movement might have completely different results.  Breaking glass is normally a bad thing to do, but if there is a fire then breaking the glass to get to a fire alarm is considered a good thing.
 
-For example, yelling "Fire" in a crowded theater when there is no fire is a well known bad thing to do, because people are likely to get hurt in the rush to get outside.  But obviously if not in a theater, and if there is a fire, then it would probably be a good thing letting others know about the danger.  We need to consider the specifics around a particular act, and the context it was performed in, and then consider the specific outcome, to decide if the act was good or bad.
+For example, yelling “Fire” in a crowded theater when there is no fire is a well known bad thing to do, because people are likely to get hurt in the rush to get outside.  But obviously if not in a theater, and if there is a fire, then it would probably be a good thing letting others know about the danger.  We need to consider the specifics around a particular act, and the context it was performed in, and then consider the specific outcome, to decide if the act was good or bad.
 
-Consider the act of "slicing meat". Is that good or bad? It depends.
+Consider the act of “slicing meat”. Is that good or bad? It depends.
 
 * If done by a cook, preparing a meal, it is probably a good thing.
 * If done by a thug slicing an innocent bystander, it is probably a bad thing.
 * If done by a surgeon slicing into a person to remove a ruptured appendix, it is probably a good thing.
 
-The motion of "slicing meat" is the same at some level, but without knowing the context and the entire situation around it, we can never say whether that particular motion is good or bad.  The motion, the context, and all the related situation must be considered together, and it is that entire combination that we will refer to as an "act" or "action" for the rest of this writing.
+The motion of “slicing meat” is the same at some level, but without knowing the context and the entire situation around it, we can never say whether that particular motion is good or bad.  The motion, the context, and all the related situation must be considered together, and it is that entire combination that we will refer to as an “act” or “action” for the rest of this writing.
 
 ## Action Scope and Duration
 
-An act may be long or short in duration, and in the performing of one act, you might also at the same time be performing dozens of other actions.  For example, the act of "going to college" can take four or more years.  The act of entertaining someone might involve the action of cooking dinner, which in turn involves the act of cutting meat.  
+An act may be long or short in duration, and in the performing of one act, you might also at the same time be performing dozens of other actions.  For example, the act of “going to college” can take four or more years.  The act of entertaining someone might involve the action of cooking dinner, which in turn involves the act of cutting meat.  
 
 There is no definite boundary on any action.  An action must be something that an agent can decide to do, or to not do.  It is that decision that forms the need to know whether the act is moral or not.  
 
-In considering any situation, we must determine the actions that are available to us.  As such, many actions are culturally defined.  Different cultures, different regions, different groups, might break out what constitutes an "act" differently, and in some cases the judgement is built into the description.  Did someone lie, or did they just say something too loosely?  Or did they blaspheme?  Or did they perjure themselves?  Different cultures, or even sometimes simply people with different points of view, will describe the same thing differently.  When comparing different moral systems, one has to be careful to isolate the action to purely what was done, and not a description that selects according to a judgement.
+In considering any situation, we must determine the actions that are available to us.  As such, many actions are culturally defined.  Different cultures, different regions, different groups, might break out what constitutes an “act” differently, and in some cases the judgement is built into the description.  Did someone lie, or did they just say something too loosely?  Or did they blaspheme?  Or did they perjure themselves?  Different cultures, or even sometimes simply people with different points of view, will describe the same thing differently.  When comparing different moral systems, one has to be careful to isolate the action to purely what was done, and not a description that selects according to a judgement.
 
 ## Why Is Survival Good?
 
@@ -64,13 +66,13 @@ This might be something that is shown to be good for you, and good for your trib
 
 This argument is appealing to the mystery of morality, the idea that an action can only be moral if the action was commanded by a superior being.  It is also a dismissal of the idea that an action can actually be moral in itself and because of its consequences.  This debate was argued by Socrates in Euthyphro which presents a dilemma: either there are moral truths that transcend even God, or else moral value are arbitrary and simply picked by God.  You can't have it both ways.
 
-To think that moral value of something is arbitrary and simply picked by omniscient god means that moral values are not real, but only arbitrary.  Some believers might decide that is more comfortable to them, but we need not believe in the arbitrary moral maker.  There are good ways that the actions produce good results as a consequence -- on average across many people and in the appropriate situations.  The moral value of such actions are not arbitrary.  There exist moral truths, and the next chapter goes into detail on how these exist and how they come about.
+To think that moral value of something is arbitrary and simply picked by omniscient god means that moral values are not real, but only arbitrary.  Some believers might decide that is more comfortable to them, but we need not believe in the arbitrary moral maker.  There are good ways that the actions produce good results as a consequence — on average across many people and in the appropriate situations.  The moral value of such actions are not arbitrary.  There exist moral truths, and the next chapter goes into detail on how these exist and how they come about.
 
 ## Moral Propositions don't Matter
 
 Some people like to frame the moral debate in terms of propositions (statements that something is good or not) and whether those statements are true or false.  
 
-This is a dead end, because a proposition can be never be complete.  You can saying "lying is bad" but that can never be completely true or completely false because it does not include the context, nor does the work "lying" clearly define a specific set of actions.  Until you actually lie, in a specific context, and in whatever way you do it, you can never be certain it will be good or bad.
+This is a dead end, because a proposition can be never be complete.  You can saying “lying is bad” but that can never be completely true or completely false because it does not include the context, nor does the work “lying” clearly define a specific set of actions.  Until you actually lie, in a specific context, and in whatever way you do it, you can never be certain it will be good or bad.
 
 Avoiding stating the meta-ethics in this way avoids a lot of problems.  For example the moral nihilists (a.k.a. error theorists) claim that no moral statement can ever be made, because those statements are actually about imperative commands, wishes, or desires, and not about the morality of the situation.
 

@@ -1,6 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
+format: md
+
 ---
+
 # Terms of Discussion
 
 We start with some definitions of terms, none of which are intended to be controversial.  In this work I will use these terms in these ways.
@@ -59,13 +62,11 @@ We will spend a lot of time exploring what it means for morals to be subjective 
 *   not influenced by personal feelings, interpretations, or prejudice; based on facts; unbiased
 *   intent upon or dealing with things external to the mind rather than with thoughts or feelings
 
-
-
 ## Layers and Scope
 
 To be able to talk about morals clearly, we need to distinguish between the multiple layers and scope of morals.  Much of the confusion in discussions of morality often have to do with 
 
-![image showing four layers of morality](moral-layers.png) 
+![image showing four layers of morality](./moral-layers.png) 
 
 **Moral Optimum** - This is the ultimate valuation of whether a specific action was actually good or bad.  These are objective, however people might disagree on what is and is not the optimum action because of differing understanding.  These apply universally across space and time however different actions might be optimum at different places and times.  A moral guideline that approaches the moral optimum will be extremely complex in order to account for all the possible extenuating circumstances.
 
@@ -82,6 +83,3 @@ There is a tension between the personal code of conduct and the cultural values 
 Sometimes a minority group embedded in a larger culture may be faced with conflicting rules they need to choose between.  In this case the individual has to choose which cultural rules to follow, and which rules to breach.  Again, the personal morals must guide that decision.
 
 Finally it is also possible there is a tension between the top two.  A culture may adopt practices it views as moral but in fact turn out to be immoral.  Two examples: bloodletting and slavery.
-
-
-

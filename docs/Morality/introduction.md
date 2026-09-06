@@ -1,6 +1,9 @@
 ---
-  sidebar_position: 1
+sidebar_position: 2
+format: md
+
 ---
+
 # Introduction
 
 This book is for everyone who has lived, and wondered what was the right way to live.  It may be easy to know what you want to do at the moment, but how should I live my life the right way that will preserve what I have short term gain, only to find that I have squandered more in the long term as a consequence.

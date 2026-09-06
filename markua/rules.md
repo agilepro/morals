@@ -1,5 +1,5 @@
 ---
-  sidebar_position: 4
+
 ---
 # Moral Rules are Inadequate
 
@@ -14,7 +14,7 @@ Rules are short simple statements to guide behavior.  Some example rules are:
 * Don't break windows or otherwise damage someone else's property
 * Do help feed orphans
 
-Those rules are stated in imperative form, but we can also state them in evalutative form which is useful for assessing the morality of behaviors:
+Those rules are stated in imperative form, but we can also state them in evaluative form which is useful for assessing the morality of behaviors:
 
 * lying is bad
 * stealing is bad
